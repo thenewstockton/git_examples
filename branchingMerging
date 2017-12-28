@@ -1,0 +1,16 @@
+git branch -a
+git branch mynewbranch
+git checkout mynewbranch
+git branch -m mynewbranch newbranch
+git branch -d newbranch //delete
+
+git checkout -b title-change
+git diff master title-change
+git merge title-change
+git merge title-change --no-ff
+
+
+---------
+git merge branch //confict
+git mergetool
+git commit -m "done resolving merge conflicts"

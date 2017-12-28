@@ -1,0 +1,21 @@
+git tag myTag
+git tag --list
+git show myTag
+git tag --delete myTag
+
+git tag -a v-1.0
+
+--comparing tags--
+git commit --amend
+
+git tag v-1.2 -m "Release 1.2"
+
+git diff v-1.1 v-1.2
+
+git tag -a v-0.9-beta dfefd
+
+git tag -a v-0.9-beta -f b5b7d4f (move tag to b5b7d)
+
+git push origin v-0.9-beta
+git push origin --tags
+git push origin :v-1.0   (remove v-1.0 on github)

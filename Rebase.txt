@@ -1,0 +1,12 @@
+git rebase
+
+git rebase --abort
+
+---conflict
+git mergetool
+git add filename
+git rebase --continue
+
+
+git fetch origin master
+git pull --rebase origin master
