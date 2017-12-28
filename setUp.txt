@@ -1,0 +1,21 @@
+vim ~/.gitconfig 
+git config --global core.editor "notepad++.exe -multiInst -nosession"
+
+git config --global --list
+git ls-files
+
+git reset HEAD hipster.txt
+git checkout -- hipster.txt
+git log --abbrev-commit
+git log --oneline --graph --decorate
+git log 7f95...4442
+git log --since="3 days ago"
+
+
+git log -- hipster.txt
+git log --follow -- hipster.txt
+git show b90fd1a61f2f52259ad48577722de51ffeac2d46
+
+git config --global alias.hist "log --all --graph --decorate --oneline"
+
+vim .gitignore
