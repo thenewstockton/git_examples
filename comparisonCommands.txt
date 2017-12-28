@@ -1,0 +1,8 @@
+git diff                  //working directory vs staging area
+git difftool
+git diff HEAD           //working directory vs HEAD
+git difftool HEAD
+git diff --staged HEAD    //HEAD vs staging area
+git difftool --staged HEAD 
+git diff -- README.md
+git difftool -- README.md
