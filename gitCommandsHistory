@@ -1,0 +1,108 @@
+  398  git -help
+  399  git -v
+  400  git --version
+  401  ls
+  402  cd /d
+  403  ls
+  404  cd dev
+  405  ls
+  406  cd Github/
+  407  ls
+  408  pwd
+  409  mkdir projects
+  410  ls
+  411  cd projects/
+  412  ls
+  413  cd ..
+  414  cd projects/
+  415  pwd
+  416  git version
+  417  git config --global user.name "thenewstockton"
+  418  git config --global user.email "phillip5914619@gmail.com"
+  419  git config --global --list
+  420  ls
+  421  git clone https://github.com/thenewstockton/github-demo.git
+  422  ls
+  423  cd github-demo/
+  424  ls
+  425  ll
+  426  ls -l
+  427  cd git
+  428  ls
+  429  vim README.md 
+  430  git status
+  431  clear
+  432  echo "Test Git demo" >> start.txt
+  433  ls
+  434  cat start.txt 
+  435  git status
+  436  git diff
+  437  git add start.txt 
+  438  git status
+  439  git commit -m "Adding start text"
+  440  git status
+  441  git push origin master
+  442  git push -u origin master
+  443  touch test
+  444  git add test 
+  445  git commit -m "test"
+  446  git push -u origin master
+  447  git config --list
+  448  git config --user --list
+  449  history
+  450  git config --global --list
+  451  git config
+  452  git config --global --user.name=""
+  453  history | grep user.na
+  454  git config --global user.name
+  455  git config --global user.name ""
+  456  touch test2
+  457  git add test2 
+  458  git commit -m "test2"
+  459  git config --global user.name "thenewstockton"
+  460  git commit -m "test2"
+  461  git push -u origin master
+  462  notepad++
+  463  exit
+  464  cd github-demo/
+  465  ls
+  466  touch test2
+  467  git add .
+  468  git commit -m "test3"
+  469  touch test3
+  470  git add .
+  471  git commit -m "test3"
+  472  git push -u origin master
+  473  ls
+  474  notepad++
+  475  code .bash_profile
+  476  exit
+  477  npp
+  478  cd /d/dev/Github/projects/github-demo/
+  479  ls
+  480  npp
+  481  npp
+  482  exit
+  483  notepad++ .bash_profile 
+  484  npp
+  485  notepad++ .bash_profile 
+  486  npp
+  487  cat ~
+  488  cat ~/.gitconfig 
+  489  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  490  cat ~/.gitconfig 
+  491  git config --global --list
+  492  npp
+  493  git config --global -e
+  494  git config --global --user.name
+  495  git config --global user.name
+  496  npp
+  497  vim .bash_profile 
+  498  mv .bash_profile .bashrc
+  499  npp
+  500  exit
+  501  git clone https://github.com/thenewstockton/git_example.git
+  502  cd git_example/
+  503  history
+  504  touch gitCommandsHistory
+  505  history >> gitCommandsHistory 
