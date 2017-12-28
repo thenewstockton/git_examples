@@ -1,0 +1,500 @@
+  359  git push -u origin master
+  360  git push -u origin master
+  361  cd ..
+  362  git clone https://github.com/phillipko/3DFor2DGame.git
+  363  git add .
+  364  cd 3DFor2DGame/
+  365  ls
+  366  git add .
+  367  git commit -m "Complete project"
+  368  git push -u origin master
+  369  rm -rf Exe/
+  370  ls
+  371  git add .
+  372  git commit -m "Removed exe files"
+  373  git push -u origin master
+  374  git clone https://github.com/phillipko/3DFor2DGame.git
+  375  cd 3DFor2DGame/
+  376  ls
+  377  git add .
+  378  git commit -m "Full project"
+  379  git push -u origin master
+  380  git add .
+  381  git commit -m "Full project"
+  382  git push -u origin master
+  383  git clone https://github.com/phillipko/Pikachu.git
+  384  git clone https://github.com/phillipko/Bejeweled.git
+  385  cd Bejeweled/
+  386  ls
+  387  git add .
+  388  git commit -m "Full Project"
+  389  git push -u origin master
+  390  exit
+  391  git add .
+  392  git commit -m "Full Project"
+  393  git push -u origin master
+  394  exit
+  395  code .
+  396  code .
+  397  exit
+  398  git -help
+  399  git -v
+  400  git --version
+  401  ls
+  402  cd /d
+  403  ls
+  404  cd dev
+  405  ls
+  406  cd Github/
+  407  ls
+  408  pwd
+  409  mkdir projects
+  410  ls
+  411  cd projects/
+  412  ls
+  413  cd ..
+  414  cd projects/
+  415  pwd
+  416  git version
+  417  git config --global user.name "thenewstockton"
+  418  git config --global user.email "phillip5914619@gmail.com"
+  419  git config --global --list
+  420  ls
+  421  git clone https://github.com/thenewstockton/github-demo.git
+  422  ls
+  423  cd github-demo/
+  424  ls
+  425  ll
+  426  ls -l
+  427  cd git
+  428  ls
+  429  vim README.md 
+  430  git status
+  431  clear
+  432  echo "Test Git demo" >> start.txt
+  433  ls
+  434  cat start.txt 
+  435  git status
+  436  git diff
+  437  git add start.txt 
+  438  git status
+  439  git commit -m "Adding start text"
+  440  git status
+  441  git push origin master
+  442  git push -u origin master
+  443  touch test
+  444  git add test 
+  445  git commit -m "test"
+  446  git push -u origin master
+  447  git config --list
+  448  git config --user --list
+  449  history
+  450  git config --global --list
+  451  git config
+  452  git config --global --user.name=""
+  453  history | grep user.na
+  454  git config --global user.name
+  455  git config --global user.name ""
+  456  touch test2
+  457  git add test2 
+  458  git commit -m "test2"
+  459  git config --global user.name "thenewstockton"
+  460  git commit -m "test2"
+  461  git push -u origin master
+  462  notepad++
+  463  exit
+  464  cd github-demo/
+  465  ls
+  466  touch test2
+  467  git add .
+  468  git commit -m "test3"
+  469  touch test3
+  470  git add .
+  471  git commit -m "test3"
+  472  git push -u origin master
+  473  ls
+  474  notepad++
+  475  code .bash_profile
+  476  exit
+  477  npp
+  478  cd /d/dev/Github/projects/github-demo/
+  479  ls
+  480  npp
+  481  npp
+  482  exit
+  483  notepad++ .bash_profile 
+  484  npp
+  485  notepad++ .bash_profile 
+  486  npp
+  487  cat ~
+  488  cat ~/.gitconfig 
+  489  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  490  cat ~/.gitconfig 
+  491  git config --global --list
+  492  npp
+  493  git config --global -e
+  494  git config --global --user.name
+  495  git config --global user.name
+  496  npp
+  497  vim .bash_profile 
+  498  mv .bash_profile .bashrc
+  499  npp
+  500  exit
+  501  cd github-demo/
+  502  npp
+  503  vim .bashrc
+  504  ls
+  505  rm .bashrc 
+  506  ls
+  507  ls -a
+  508  pwd
+  509  cd ..
+  510  ls
+  511  git init fresh-project
+  512  ls
+  513  ls
+  514  ls
+  515  cd fresh-project/
+  516  ls -al
+  517  ls .git/
+  518  git status
+  519  vim hipster.txt
+  520  git status
+  521  git add hipster.txt 
+  522  git status
+  523  git commit
+  524  git status
+  525  git commit
+  526  cd ..
+  527  ls
+  528  rm -rf fresh-project/
+  529  ls
+  530  pwd
+  531  tar
+  532  mv initializr web-project
+  533  ls
+  534  cd web-project/
+  535  ls
+  536  pwd
+  537  git init
+  538  ls
+  539  ls -a
+  540  git status
+  541  git add .
+  542  ls
+  543  git status
+  544  git commit -m "My first commit, inline"
+  545  git status
+  546  rm -rf .git/
+  547  ls
+  548  git status
+  549  cd ..
+  550  ls
+  551  ls -a
+  552  ls
+  553  rm -rf web-project/
+  554  ls
+  555  ls
+  556  pwd
+  557  git clone https://github.com/thenewstockton/starter-web.git
+  558  cd starter-web/
+  559  ls
+  560  ls
+  561  cat crossdomain.xml 
+  562  ls -a
+  563  cd .git
+  564  ls
+  565  cd ..
+  566  ls
+  567  clear
+  568  ls
+  569  clear
+  570  git status
+  571  ls
+  572  git status
+  573  ls
+  574  code .
+  575  touch hipster.txt
+  576  git status
+  577  git add .
+  578  git status
+  579  ls
+  580  ls -a
+  581  git commit 
+  582  git status
+  583  git pull origin master
+  584  git pull
+  585  git push origin master
+  586  ls
+  587  vim ~/.gitconfig 
+  588  ls
+  589  pwd
+  590  git status
+  591  git status
+  592  git commit -am "Adding more ipsum text"
+  593  git status
+  594  git ls-files
+  595  touch newfile.txt
+  596  vim newfile.txt 
+  597  ls
+  598  git ls-files
+  599  git ls-files | grep new
+  600  git add newfile.txt 
+  601  git ls-files | grep new
+  602  pwd
+  603  clear
+  604  git status
+  605  git status
+  606  git commit -m "Adding new file"
+  607  git status
+  608  sl
+  609  ls
+  610  git add hipster.txt 
+  611  ls
+  612  git status
+  613  git status
+  614  git diff
+  615  git add hipster.txt 
+  616  git status
+  617  git commit -m "More ipsum for hipsters"
+  618  git status
+  619  mkdir -p level1/level2/level3/level5
+  620  ls
+  621  cd level1
+  622  ls
+  623  pwd
+  624  touch leve1file.txt
+  625  cd level2
+  626  ls
+  627  vim level2
+  628  ls
+  629  mv level2 level2.txt
+  630  ls ..
+  631  cd level3
+  632  vim level3.txt
+  633  ls
+  634  rm -rf level5
+  635  ls
+  636  cd ../../..
+  637  ls
+  638  git status
+  639  git add .
+  640  igt status
+  641  git status
+  642  git commit -m "Adding several files recursively"
+  643  git status
+  644  pwd
+  645  git status
+  646  ls
+  647  clear
+  648  cd level1/
+  649  ls
+  650  vim leve1file.txt 
+  651  git status
+  652  git add leve1file.txt 
+  653  git status
+  654  cat leve1file.txt 
+  655  git status
+  656  git diff
+  657  git diff leve1
+  658  git diff leve1file.txt
+  659  git reset HEAD leve1file.txt
+  660  ls
+  661  cat leve1file.txt 
+  662  vim leve1file.txt 
+  663  ls
+  664  git status
+  665  git add leve1file.txt 
+  666  ls
+  667  git status
+  668  git reset HEAD leve1file.txt
+  669  cat leve1file.txt 
+  670  ls
+  671  git status
+  672  clear
+  673  ls
+  674  clear
+  675  git status
+  676  git checkout -- leve1file.txt
+  677  git statu
+  678  cd level2/level3
+  679  ls
+  680  git status
+  681  git mv level3.txt lev3.txt
+  682  ls
+  683  git status
+  684  git commit -m "renaming level3 file"
+  685  cd ..
+  686  pwd
+  687  ls
+  688  git status
+  689  mv level2.txt lev2.txt
+  690  git status
+  691  git add -A
+  692  git status
+  693  git commit -m "Renaming level2 file"
+  694  ls
+  695  git status
+  696  clear
+  697  git mv lev2.txt level2.txt
+  698  ls
+  699  git status
+  700  git mv level2.txt lev2.txt
+  701  ls
+  702  git status
+  703  clear
+  704  git mv lev2.txt level3
+  705  ls
+  706  cd level3
+  707  ls
+  708  git status
+  709  cd..
+  710  cd ..
+  711  git status
+  712  git commit -m "Moving file"
+  713  ls
+  714  git pull
+  715  cd level3/
+  716  ls
+  717  mv lev2.txt ..
+  718  cd ..
+  719  ls
+  720  git status
+  721  git add -A
+  722  git status
+  723  git commit -m "Moving level2 file back to level2"
+  724  ls
+  725  clear
+  726  cd ..
+  727  ls
+  728  ls
+  729  mv leve1file.txt level1.txt
+  730  ls
+  731  ls
+  732  git status
+  733  git add level1.txt 
+  734  ls
+  735  git status
+  736  git add -u
+  737  git status
+  738  git ocmmit -m "Renaming"
+  739  git ocmmit -m "Renaming level1 file"
+  740  git commit -m "Renaming level1 file"
+  741  git add --help
+  742  cd ..
+  743  vim doomed.txt
+  744  ls
+  745  git status
+  746  git rm doomed.txt 
+  747  ls
+  748  rm doomed.txt 
+  749  git status
+  750  clear
+  751  ls
+  752  clear
+  753  git ls-files
+  754  ls
+  755  git rm newfile.txt 
+  756  ls
+  757  git status
+  758  git commit -m "Deleting newfile"
+  759  git status
+  760  git ls-files
+  761  git ls-files | grep hipster.txt 
+  762  git rm hipster.txt 
+  763  ls
+  764  git status
+  765  git reset HEAD hipster.txt
+  766  ls
+  767  git status
+  768  git checkout -- hipster.txt
+  769  ls
+  770  git status
+  771  clear
+  772  ls
+  773  rm hipster.txt 
+  774  git status
+  775  git add -A
+  776  git status
+  777  git commit -m "delete"
+  778  git status
+  779  clear
+  780  ls
+  781  rm -rf level1
+  782  git status
+  783  git add -A
+  784  git status
+  785  git commit -m "deleting level1 and all children"
+  786  git status
+  787  git help log
+  788  git help log
+  789  git status
+  790  clear
+  791  git log
+  792  git log
+  793  git log --abbrev-commit
+  794  git log --oneline --graph --decorate
+  795  git log 7f95...4442
+  796  git log 7f95...4442
+  797  git log --since="3 days ago"
+  798  touch hipster.txt
+  799  vim hipster.txt
+  800  commit -ma hipster.txt
+  801  git commit -ma hipster.txt
+  802  git status
+  803  git commit -ma "add"
+  804  git commit -ma "add file"
+  805  git add .
+  806  git commit -m "add"
+  807  git log -- hipster.txt
+  808  git log --follow -- hipster.txt
+  809  git show b90fd1a61f2f52259ad48577722de51ffeac2d46
+  810  git show b90fd1a61f2f52259ad48577722de51ffeac2d46
+  811  git status
+  812  clear
+  813  git log --all --graph --decorate --oneline
+  814  git hist
+  815  git config --global alias.hist "log --all --graph --decorate --oneline"
+  816  git hist
+  817  clear
+  818  vim ~/.gitconfig 
+  819  vim ~/.gitconfig 
+  820  ls
+  821  touch ignore
+  822  ls
+  823  git status
+  824  ls -a
+  825  vim .gitignore
+  826  git status
+  827  ls -a
+  828  git add .gitignore 
+  829  git status
+  830  git commit -m ".gitignore"
+  831  git status
+  832  ls
+  833  vim access.log
+  834  ls
+  835  git status
+  836  vim .gitignore 
+  837  git status
+  838  git commit -am "new gitignore"
+  839  mkdir log
+  840  mv access.log log
+  841  ls
+  842  git status
+  843  git status
+  844  ls
+  845  cd log
+  846  touch test
+  847  cd ..
+  848  git status
+  849  vim .gitignore 
+  850  git status
+  851  git commit -am "new .gitignore"
+  852  ls
+  853  git status
+  854  git status
+  855  git pull origin master
+  856  git push origin master
+  857  history
+  858  history >> gitCommandsHistory2
