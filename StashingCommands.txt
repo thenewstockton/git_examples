@@ -1,0 +1,23 @@
+git stash 
+
+--some commits---
+
+git stash apply
+
+git stash list
+git stash drop
+
+--add a untracked file--
+git stash -u   //stash a untracked file
+
+git stash pop
+
+git stash save "message"
+
+git stash show stash@{1}
+git stash apply stash@{1}
+git stash drop stash@{1}
+
+git stash clear
+
+git stash branch newchanges //stash apply to newchanges
